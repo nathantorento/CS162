@@ -23,7 +23,7 @@ source venv/bin/activate
 Now, manually install the dependencies specified in the requirements.txt file found in this project folder.
 
 ```bash
-pip3 install -requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Finally, run the application
