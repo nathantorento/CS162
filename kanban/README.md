@@ -1,6 +1,7 @@
 # Web Assignment: Kanban Board
 
-# Instructions
+## Instructions
+
 ### Ensure you have python3 installed.
 https://www.python.org/downloads/
 
