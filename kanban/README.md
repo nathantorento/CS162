@@ -1,9 +1,11 @@
 # Web Assignment: Kanban Board
 
+![kanban board preview](https://github.com/nathantorento/CS162/edit/master/kanban/kanban_preview.png "kanban board preview")
 
 ## Instructions
 
 ### Ensure you have python3 installed.
+
 https://www.python.org/downloads/
 
 ### Ensure you have the package "virtualenv" installed.
