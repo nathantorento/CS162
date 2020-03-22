@@ -32,4 +32,4 @@ python3 run.py
 ```
 
 ### Credits:
-Thank you to Zineb, Juan Carlos, and Jason Liang for the help and framework they've provided for me to model my project on. I struggled particularly on how to route the links to each other and transfer the html form inputs into the SQLAlchemy database. Referred to a lot of stackexchange forums for a lot of the workaround codes like recoding the 'url_for' and using "app.app_context" to import files from local directories.
+Thank you to Zineb Salimi, Juan Carlos, and Jason Liang for the help and framework they've provided for me to model my project on. I struggled particularly on how to route the links to each other and transfer the html form inputs into the SQLAlchemy database. Their code provided a lot of insight about how I could overcome these obstacles. Furthermore, referred to a lot of stackexchange forums for a lot of the workaround codes like recoding the 'url_for' and using "app.app_context" to import files from local directories.
