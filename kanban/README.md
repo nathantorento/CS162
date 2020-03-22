@@ -1,6 +1,6 @@
 # Web Assignment: Kanban Board
 
-![kanban board preview](https://github.com/nathantorento/CS162/edit/master/kanban/kanban_preview.png "kanban board preview")
+![kanban board preview](https://github.com/nathantorento/CS162/blob/master/kanban/Kanban_preview.png "Kanban Board Preview")
 
 ## Instructions
 
