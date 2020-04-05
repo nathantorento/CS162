@@ -1,8 +1,5 @@
 ## Instructions
 
-### Ensure you have python3 installed.
-https://www.python.org/downloads/
-
 ### Ensure you have the package "virtualenv" installed.
 ```bash
 pip3 install virtualenv
@@ -22,5 +19,5 @@ Now, manually install the dependencies specified in the requirements.txt file fo
 pip3 install -r requirements.txt
 ```
 
-### Run ipynb
+### Run .ipynb notebook
 Use your jupyter notebook browser to open the .ipynb file.
